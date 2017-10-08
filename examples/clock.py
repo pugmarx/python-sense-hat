@@ -1,3 +1,8 @@
+############
+## Courtesy: https://yjlo.xyz/blog/design-a-digital-clock-on-raspberry-pi-sense-hat
+###########
+
+
 from sense_hat import SenseHat
 import datetime
 import time
